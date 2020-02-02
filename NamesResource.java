@@ -828,7 +828,7 @@ public class NamesResource {
 				"Latin Language and Literature", "Linguistics",	"Mathematical Sciences",
 				"Mathematical Sciences: Actuarial Sciences", "Mechanical Engineering",
 				"Medieval and Early Modern Studies", "Music", "Nursing", "Philosophy",
-				"Philosophy, Politics and Law", "Physics", "Physics: Mathematical Physics",
+				"Philosophy Politics and Law", "Physics", "Physics: Mathematical Physics",
 				"Political Science", "Psychology", "Russian Studies: Area Studies",
 				"Russian Studies: Literary and Cultural Studies", "Social Work", "Sociology",
 				"Spanish: Language and Literature", "Theatre", "Women Gender and Sexuality Studies"
